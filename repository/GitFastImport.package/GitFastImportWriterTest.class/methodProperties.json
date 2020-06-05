@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"assertString:equals:" : "",
+		"testCommitMark" : "",
+		"testWriteFileModifyInline" : "",
+		"testNullsAreGuarded" : "",
+		"testWriteCommitPreamble" : "",
+		"testWriteFileModes" : "",
+		"testWriteMergesWithTwoParents" : "",
+		"testWriteMergesWithSingleParent" : "",
+		"testWriteUnicodeInline" : "",
+		"testWriteDirectoryTreeInline" : "",
+		"newMemoryStore" : "",
+		"testWriteDeleteReference" : "",
+		"setUp" : ""
+	},
+	"class" : { }
+}

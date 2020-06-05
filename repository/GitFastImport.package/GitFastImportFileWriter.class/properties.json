@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GitFastImport",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"writeStream",
+		"commitMarks",
+		"fileModes"
+	],
+	"name" : "GitFastImportFileWriter",
+	"type" : "normal"
+}

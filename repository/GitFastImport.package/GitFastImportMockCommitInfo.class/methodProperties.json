@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"commitMessage" : "",
+		"authorName" : "",
+		"committerName" : "",
+		"committedDate" : "",
+		"authoredDate" : "",
+		"authorEmail" : "",
+		"committerEmail" : "",
+		"parents" : ""
+	},
+	"class" : { }
+}

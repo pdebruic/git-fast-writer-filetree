@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"commitMarks" : "",
+		"writeLine:" : "",
+		"writeFileModifyInlineFor:" : "",
+		"on:" : "",
+		"writeDeleteReference:" : "",
+		"fileModes:" : "",
+		"writeCommitPreambleFor:" : "",
+		"initialize" : "",
+		"delimiter" : "",
+		"writeDirectoryTreeInlineFor:" : "",
+		"commitMarkFor:" : "",
+		"fileModeFor:" : "",
+		"writeMergesFor:" : ""
+	},
+	"class" : { }
+}
