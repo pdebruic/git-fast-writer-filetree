@@ -1,6 +1,5 @@
 writing
 nextPutAll: aString
-	self
-		assert: [ aString noneSatisfy: [ :each | each = Character null ] ]
-		description: [ 'Cannot write null characters: ' , aString ].
-	writeStream nextPutAll: aString
+	|null | 
+	null:=Character null.
+	writeStream nextPutAll: (aString reject:[:ea | ea =null])

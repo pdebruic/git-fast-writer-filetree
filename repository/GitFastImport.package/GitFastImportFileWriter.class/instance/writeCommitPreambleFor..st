@@ -2,7 +2,7 @@ writing
 writeCommitPreambleFor: aCommitInfo
 	writeStream
 		nextPutAll:
-			('commit refs/heads/master
+			('commit refs/heads/main
 mark :{commitMark}
 author {authorName} <{authorEmail}> {authoredDate} +0000
 committer {committerName} <{committerEmail}> {committedDate} +0000
