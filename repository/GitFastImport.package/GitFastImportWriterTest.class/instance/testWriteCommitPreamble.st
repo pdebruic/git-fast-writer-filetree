@@ -6,7 +6,7 @@ testWriteCommitPreamble
 	self
 		assertString: contents
 		equals:
-			'commit refs/heads/master
+			'commit refs/heads/',GitMigration defaultBranchName,'
 mark :1
 author An Author <author@example.com> 948345600 +0000
 committer A Committer <committer@example.com> 948346200 +0000

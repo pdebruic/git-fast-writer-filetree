@@ -2,7 +2,7 @@ writing
 writeCommitPreambleFor: aCommitInfo
 	writeStream
 		nextPutAll:
-			('commit refs/heads/main
+			('commit refs/heads/',GitMigration defaultBranchName,'
 mark :{commitMark}
 author {authorName} <{authorEmail}> {authoredDate} +0000
 committer {committerName} <{committerEmail}> {committedDate} +0000

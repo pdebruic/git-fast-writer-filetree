@@ -4,7 +4,7 @@
 		"testCommitMark" : "",
 		"testWriteFileModifyInline" : "",
 		"testNullsAreGuarded" : "",
-		"testWriteCommitPreamble" : "",
+		"testWriteCommitPreamble" : "PaulDeBruicker 4/6/2025 11:49",
 		"testWriteFileModes" : "",
 		"testWriteMergesWithTwoParents" : "",
 		"testWriteMergesWithSingleParent" : "",
